@@ -7,4 +7,7 @@ print(sum(2,3))
 def substract(a,b):
     '''This is to substract two numbers'''
     return(a-b)
+
+def multiplication(a,b):
+    return(a*b)
     
