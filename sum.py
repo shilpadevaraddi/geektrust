@@ -4,5 +4,5 @@ def sum(a,b):
     return a+b
 
 def deff(a,b):
+    '''this is to get difference between two numbers'''
     return a-b
-    
